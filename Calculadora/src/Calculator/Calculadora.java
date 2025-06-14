@@ -14,8 +14,7 @@ public class Calculadora {
         System.out.println("Indica el segundo numero");
         double numeroDos = teclado.nextInt();
 
-        System.out.println("El primer numero es: " + numeroUno +" y " + "El segundo numero es: + numeroDos");
-
+        System.out.println("El primer numero es: " + numeroUno +" y " + "El segundo numero es: " + numeroDos);
 
         System.out.println("si ambos numeros se suman el resultado es " + (numeroUno + numeroDos));
         System.out.println("si ambos numeros se resta el resultado es " + (numeroUno - numeroDos));
